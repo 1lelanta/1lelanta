@@ -6,3 +6,5 @@
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jejksosow)  
 - 🔗 Connect with me on LinkedIn:  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/lelisa-tesfaye-b04328336)
+  ## 📫 Contact
+-Reach me at: [kekikoki4@gmail.com](mailto📧)
