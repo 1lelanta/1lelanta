@@ -1,4 +1,5 @@
 ### Hi, I’m Lelisa Tesfaye 👋  
+---
 
 - 🎯 **Full Stack Web Developer**
 - 🤝 Open to collaborating on **impactful projects** that solve real-world problems  
@@ -12,8 +13,17 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Lelisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=1lelanta&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1lelanta&layout=compact&theme=tokyonight)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=1lelanta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lelanta&layout=compact&theme=tokyonight" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
