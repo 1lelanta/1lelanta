@@ -21,13 +21,6 @@ I love solving real-world problems through technology and collaborating on impac
 
 ---
 
-## 🚀 Projects
-- [Weather App](https://github.com/1lelanta/marketgebeya.-lelanta.github.io) - Responsive weather dashboard using React.
-- [Portfolio Website](https://1lelanta.github.io/) - My personal portfolio built with HTML, CSS & JS.
-- [Your Other Project] - Short description and link.
-
----
-
 ## 📊 GitHub Stats
 <div align="center">
   <table>
