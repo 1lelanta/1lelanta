@@ -1,5 +1,5 @@
 
- i mean this one # Hi 👋, I'm Lelisa Tesfaye
+## Hi 👋, I'm Lelisa Tesfaye
 
 ## 🚀 About Me
 Full-stack developer using React, TypeScript, and Node.js.
