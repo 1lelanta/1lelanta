@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Lelisa Tesfaye</h1>
 
 <p align="center">
-  <b>Full-Stack Developer </b><br/>
+  <b>Full-Stack Developer</b><br/>
   Building scalable web applications with React, TypeScript, and Node.js.
 </p>
+
+---
+
 ## About Me
 
 - Computer Science student at **Addis Ababa University**
