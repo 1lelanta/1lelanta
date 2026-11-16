@@ -1,18 +1,9 @@
 <h1 align="center">Hi, I'm Lelisa Tesfaye</h1>
 
 <p align="center">
-  <b>Full-Stack Developer · CS Student at Addis Ababa University</b><br/>
+  <b>Full-Stack Developer </b><br/>
   Building scalable web applications with React, TypeScript, and Node.js.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=1lelanta&label=Profile%20Views&color=FFD700&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/badge/Location-Addis%20Ababa%2C%20Ethiopia-FFD700?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-FFD700?style=flat-square" alt="Open to collaboration"/>
-</p>
-
----
-
 ## About Me
 
 - Computer Science student at **Addis Ababa University**
